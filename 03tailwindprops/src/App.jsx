@@ -9,8 +9,8 @@ function App() {
 
   return (
     <div className='flex flex-wrap justify-center '>
-    <h1 className='fixed flex flex-wrap justify-center  bottom-20 bg-green-400 text-black-400 p-4 rounded-xl '
-    style={{width: 300, alignItems: "center"}}>Tailwind test</h1>
+    <h1 className='fixed flex flex-wrap justify-center  bottom-20 bg-green-400  p-4 rounded-xl '
+    style={{width: 300, alignItems: "center",color: 'black' }}>Tailwind test</h1>
     </div>
   )
 }
